@@ -1,0 +1,10 @@
+## Interface: 110500
+## Title: GLayout
+## Notes: 聊天窗口、编辑模式布局及按键绑定备份工具
+## Author: GChat修改自Een(Antisocialian)
+## Version: 3.0
+## SavedVariables: GLayoutDB
+
+GLayout.lua
+SettingsUI.lua
+Edit.lua
